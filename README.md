@@ -7,6 +7,7 @@ This repository contains my daily Python data visualization practice projects us
 - Line Chart Practice
 - Bar Chart Practice
 - Pie Chart Practice
+- Scatter Plot Practice
 
 ## 🛠 Libraries Used
 
